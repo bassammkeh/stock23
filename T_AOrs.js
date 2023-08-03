@@ -1,1 +1,0 @@
-var AOr=[{AOr1:"17765.84"}];var AOs=[{AOs1:"17338.87"}];var CDs=[{CrDs:"0"}];
